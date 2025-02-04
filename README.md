@@ -16,8 +16,7 @@
 ---
 
 ### 📂 Мои проекты:
-- **[URL Shortener](https://github.com/mus-mil/web_chat/)**
-Чат.
+- **[чат](https://github.com/mus-mil/web_chat/)**
 - **Технологии:** Golang, PostgreSQL, Makefile.
 - **Функционал:** авторизация.
 
