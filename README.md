@@ -16,7 +16,7 @@
 ---
 
 ### 📂 Мои проекты:
-- **[URL Shortener](https://github.com/go_web/)**
+- **[URL Shortener](https://github.com/web_chat/)**
 Чат.
 - **Технологии:** Golang, PostgreSQL, Makefile.
 - **Функционал:** авторизация.
