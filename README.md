@@ -17,7 +17,7 @@
 ---
 
 ### 📂 Мои проекты:
-- **[чат](https://github.com/mus-mil/web_chat/)**
+- **[sso+gin](https://github.com/mus-mil/web_chat/)**
 - **Технологии:** Golang, PostgreSQL, Makefile.
 - **Функционал:** авторизация.
 
