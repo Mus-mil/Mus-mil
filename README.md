@@ -20,7 +20,7 @@
 - **[sso+gin](https://github.com/mus-mil/web_chat/)**
     - **Технологии:** Golang, PostgreSQL, Makefile.
     - **Функционал:** авторизация.
-- **[quotation_book]([https://github.com/mus-mil/web_chat/](https://github.com/Mus-mil/quotation_book/))**
+- **[quotation_book](https://github.com/Mus-mil/quotation_book/)**
 
 ---
 
